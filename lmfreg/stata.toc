@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p lmfreg OLS Linear vs Log-Linear Functional Form Tests Use lmfreg With STATA 19
