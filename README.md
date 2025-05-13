@@ -1,6 +1,8 @@
 # lmfreg
 OLS Linear vs Log-Linear Functional Form Tests Use lmfreg With STATA 19
 
+https://www.youtube.com/watch?v=xdI4HbG6y-E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
